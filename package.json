@@ -1,0 +1,25 @@
+{
+  "name": "node-pi-leibniz-recursive",
+  "version": "1.0.0",
+  "description": "recursively formulates PI using Leibnitz algorithm",
+  "main": "pi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EhevuTov/node-pi-leibniz-recursive"
+  },
+  "keywords": [
+    "node",
+    "pi",
+    "leibniz",
+    "recursive"
+  ],
+  "author": "James Gosnell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EhevuTov/node-pi-leibniz-recursive/issues"
+  },
+  "homepage": "https://github.com/EhevuTov/node-pi-leibniz-recursive"
+}
